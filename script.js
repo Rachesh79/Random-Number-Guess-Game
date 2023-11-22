@@ -1,4 +1,4 @@
-let rand = parseInt((Math.random()*10)+1)
+let rand = parseInt((Math.random()*100)+1)
 
 let submit = document.querySelector('#subt')
 let userInput = document.querySelector('.guessField')
